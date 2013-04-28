@@ -11,3 +11,7 @@ Git clone this repo, create the device directory in your CM10 sources along with
 
 . build/envsetup.sh
 brunch cm_tostab04-userdebug
+
+SOURCE/device/toshiba/tostab04
+SOURCE/vendor/toshiba/tostab04
+SOURCE/kernel/toshiba/tostab04
